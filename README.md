@@ -12,7 +12,7 @@ In this project I'll be creating a pretty neat toy for my portfolio to flex my D
 ## How I did it?
 
 * As a user, I would be able to draw on a grid by hovering onto the pixels.
-* I would be able to determines the number of pixels I want .
+* I would be able to determine the number of pixels I want .
 ---
 ## Languages And Tools:
 
